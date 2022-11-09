@@ -1,5 +1,5 @@
-## this is the resources of SMA
-Spatial Modeling is quite important.
+## this is the resoures of rppp
+
 ### Reading list
 ### Ref list by class
 #### Week 1
